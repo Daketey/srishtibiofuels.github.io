@@ -9,7 +9,7 @@ export default function SEO({
   canonical 
 }) {
   const location = useLocation()
-  const baseUrl = 'https://srishitibiofuels.com'
+  const baseUrl = 'https://srishtibiofuels.in'
   const fullUrl = `${baseUrl}${location.pathname}`
   const canonicalUrl = canonical || fullUrl
 

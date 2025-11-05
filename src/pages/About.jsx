@@ -8,7 +8,7 @@ export default function About() {
         title="About Srishiti Biofuels — Leading Biomass Energy Manufacturer | Our Mission"
         description="Learn about Srishiti Biofuels, founded in 2020 as India's leading sustainable biomass manufacturer. Discover our mission, values, process, and commitment to environmental stewardship and renewable energy innovation."
         keywords="about srishiti biofuels, biomass manufacturer, renewable energy company, sustainable fuel producer, biofuel company India, eco-friendly energy solutions"
-        canonical="https://srishitibiofuels.com/about"
+        canonical="https://srishtibiofuels.in/about"
       />
       <div className="about-page">
         <header className="page-header">

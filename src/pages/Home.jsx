@@ -30,7 +30,7 @@ export default function Home(){
         title="Srishiti Biofuels — Sustainable Biomass Briquettes & Pellets | Eco-Friendly Energy Solutions"
         description="Transform your energy needs with Srishiti Biofuels' premium biomass briquettes and pellets. 40% lower carbon emissions, 100% renewable materials, 25% cost savings. Contact us for sustainable industrial heating solutions."
         keywords="biomass briquettes, biomass pellets, biofuels, renewable energy, sustainable energy, eco-friendly fuel, industrial heating, carbon emissions reduction, agricultural waste fuel, forest waste fuel"
-        canonical="https://srishitibiofuels.com/"
+        canonical="https://srishtibiofuels.in/"
       />
       <div>
         <section className="hero" aria-label="Hero section">

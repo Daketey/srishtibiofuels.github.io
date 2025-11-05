@@ -7,7 +7,7 @@ export default function Contact() {
         title="Contact Srishiti Biofuels — Get Quote for Biomass Briquettes & Pellets"
         description="Contact Srishiti Biofuels for sustainable biomass energy solutions. Get quotes for briquettes and pellets, schedule consultations, or inquire about our eco-friendly industrial fuel products. Quick response within 24 hours."
         keywords="contact srishiti biofuels, biomass quote, biofuel inquiry, sustainable energy consultation, biomass briquettes supplier contact, pellets manufacturer"
-        canonical="https://srishitibiofuels.com/contact"
+        canonical="https://srishtibiofuels.in/contact"
       />
       <div className="contact-page">
         <header className="page-header">

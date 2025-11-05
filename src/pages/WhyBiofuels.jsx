@@ -8,7 +8,7 @@ export default function WhyBiofuels() {
         title="Why Choose Biofuels? Benefits of Biomass Energy | Srishiti Biofuels"
         description="Discover why biofuels are the smart choice: 80% lower CO2 emissions, 25% cost savings, 100% renewable. Learn about biomass benefits for industrial heating, ESG compliance, and sustainable energy solutions."
         keywords="why biofuels, biomass benefits, renewable energy advantages, carbon footprint reduction, biofuel cost savings, sustainable industrial fuel, ESG compliance, coal alternative"
-        canonical="https://srishitibiofuels.com/why-biofuels"
+        canonical="https://srishtibiofuels.in/why-biofuels"
       />
       <div className="why-biofuels-page">
         <header className="page-header">
