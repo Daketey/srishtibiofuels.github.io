@@ -164,7 +164,7 @@ export default function Home(){
             <div style={{color:'#666'}}>Contact us for queries or quotes and our team will assist you.</div>
           </div>
           <div>
-            <a className="btn" href="#contact" aria-label="Contact Srishiti Biofuels">CONTACT US</a>
+            <a className="btn" href="/contact" aria-label="Contact Srishiti Biofuels">CONTACT US</a>
           </div>
         </section>
       </div>
