@@ -1,0 +1,11 @@
+# robots.txt for Srishiti Biofuels
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://srishitibiofuels.com/sitemap.xml
+
+# Crawl-delay (optional)
+Crawl-delay: 1
