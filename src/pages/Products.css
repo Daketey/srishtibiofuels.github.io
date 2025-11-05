@@ -1,0 +1,244 @@
+.products-page {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.page-header h1 {
+  font-size: 2.5rem;
+  color: var(--text);
+  margin-bottom: 0.5rem;
+}
+
+.page-header .subtitle {
+  color: var(--muted);
+}
+
+.product-section {
+  margin-bottom: 3rem;
+}
+
+.product-section h2 {
+  font-size: 1.75rem;
+  color: var(--green-primary);
+  margin-bottom: 1.5rem;
+}
+
+.spec-block {
+  background: white;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: 600px;
+  margin: 0 auto;
+  align-items: center;
+}
+
+.spec-block p {
+  color: var(--muted);
+  margin-bottom: 1.5rem;
+}
+
+.spec-table {
+  width: 100%;
+  margin-bottom: 1.5rem;
+}
+
+.spec-table td {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.spec-table td:first-child {
+  color: var(--text);
+  font-weight: 500;
+  width: 40%;
+}
+
+.spec-table td:last-child {
+  color: var(--muted);
+}
+
+.spec-cta {
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: var(--green-primary);
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.process-overview {
+  text-align: center;
+  margin: 3rem 0;
+  padding: 2rem;
+  background: #f8f9fa;
+  border-radius: 8px;
+}
+
+.process-overview h2 {
+  margin-bottom: 1rem;
+  font-size: 1.75rem;
+  color: var(--text);
+}
+
+.process-overview p {
+  color: var(--muted);
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .products-page {
+    padding: 1rem;
+  }
+
+  .page-header {
+    margin-bottom: 2.5rem;
+  }
+
+  .page-header h1 {
+    font-size: 2rem;
+  }
+
+  .page-header .subtitle {
+    font-size: 0.95rem;
+    padding: 0 1rem;
+  }
+
+  .product-section {
+    margin-bottom: 2.5rem;
+  }
+
+  .product-section h2 {
+    font-size: 1.4rem;
+    text-align: center;
+    padding: 0 1rem;
+  }
+
+  .spec-block {
+    padding: 1.5rem;
+    max-width: 100%;
+  }
+
+  .spec-block p {
+    font-size: 0.95rem;
+    text-align: center;
+  }
+
+  .spec-table {
+    margin-bottom: 1.5rem;
+  }
+
+  .spec-table td {
+    padding: 0.6rem 0.5rem;
+    font-size: 0.9rem;
+  }
+
+  .spec-table td:first-child {
+    width: 45%;
+  }
+
+  .process-overview {
+    padding: 1.5rem;
+    margin: 2rem 0;
+  }
+
+  .process-overview h2 {
+    font-size: 1.4rem;
+  }
+
+  .process-overview p {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .products-page {
+    padding: 0.75rem;
+  }
+
+  .page-header {
+    margin-bottom: 2rem;
+  }
+
+  .page-header h1 {
+    font-size: 1.75rem;
+  }
+
+  .page-header .subtitle {
+    font-size: 0.9rem;
+  }
+
+  .product-section {
+    margin-bottom: 2rem;
+  }
+
+  .product-section h2 {
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .spec-block {
+    padding: 1.25rem;
+    border-radius: 6px;
+  }
+
+  .spec-block p {
+    font-size: 0.9rem;
+    margin-bottom: 1.25rem;
+  }
+
+  .spec-table {
+    font-size: 0.85rem;
+  }
+
+  .spec-table td {
+    padding: 0.5rem 0.25rem;
+  }
+
+  .spec-table td:first-child {
+    width: 55%;
+    font-size: 0.85rem;
+    padding-right: 0.5rem;
+  }
+
+  .spec-table td:last-child {
+    font-size: 0.85rem;
+  }
+
+  .spec-cta {
+    margin-top: 1rem;
+  }
+
+  .btn {
+    width: 100%;
+    text-align: center;
+    padding: 0.85rem 1rem;
+    font-size: 0.95rem;
+  }
+
+  .process-overview {
+    padding: 1.25rem;
+    margin: 1.5rem 0;
+  }
+
+  .process-overview h2 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .process-overview p {
+    font-size: 0.85rem;
+    line-height: 1.6;
+  }
+}
