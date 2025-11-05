@@ -4,40 +4,40 @@
   
   <!-- Homepage -->
   <url>
-    <loc>https://srishitibiofuels.com/</loc>
-    <lastmod>2025-11-05</lastmod>
+    <loc>https://srishtibiofuels.in/</loc>
+    <lastmod>2025-11-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <!-- Products Page -->
   <url>
-    <loc>https://srishitibiofuels.com/products</loc>
-    <lastmod>2025-11-05</lastmod>
+    <loc>https://srishtibiofuels.in/products</loc>
+    <lastmod>2025-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   
   <!-- Why Biofuels Page -->
   <url>
-    <loc>https://srishitibiofuels.com/why-biofuels</loc>
-    <lastmod>2025-11-05</lastmod>
+    <loc>https://srishtibiofuels.in/why-biofuels</loc>
+    <lastmod>2025-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- About Page -->
   <url>
-    <loc>https://srishitibiofuels.com/about</loc>
-    <lastmod>2025-11-05</lastmod>
+    <loc>https://srishtibiofuels.in/about</loc>
+    <lastmod>2025-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <!-- Contact Page -->
   <url>
-    <loc>https://srishitibiofuels.com/contact</loc>
-    <lastmod>2025-11-05</lastmod>
+    <loc>https://srishtibiofuels.in/contact</loc>
+    <lastmod>2025-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
