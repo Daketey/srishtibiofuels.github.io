@@ -1,14 +1,12 @@
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import react from '@vitejs/plugin-react-swc'
 
-// https://vite.dev/config/
+// https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react()],
-  server: {
-    allowedHosts: [
-      'd1edbfe22567.ngrok-free.app',
-      '.ngrok-free.app',  // Allow all ngrok-free.app subdomains
-      '.ngrok.io'          // Allow all ngrok.io subdomains (if you upgrade)
-    ]
-  }
+  base: '/',
+  build: {
+    emptyOutDir: true,
+    outDir: './docs',
+  },
+  plugins: [react()]
 })
