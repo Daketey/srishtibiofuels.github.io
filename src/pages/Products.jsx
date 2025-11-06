@@ -5,8 +5,8 @@ export default function Products(){
   return (
     <>
       <SEO 
-        title="Biomass Briquettes & Pellets Specifications | Srishiti Biofuels Products"
-        description="Explore Srishiti Biofuels' biomass briquettes (4200-4700 kcal/kg) and pellets (4600-5000 kcal/kg). High calorific value, low moisture content, eco-friendly industrial fuel solutions. Contact us for specifications and pricing."
+        title="Biomass Briquettes & Pellets Specifications | Srishti Biofuels Products"
+        description="Explore Srishti Biofuels' biomass briquettes (4200-4700 kcal/kg) and pellets (4600-5000 kcal/kg). High calorific value, low moisture content, eco-friendly industrial fuel solutions. Contact us for specifications and pricing."
         keywords="biomass briquettes specifications, biomass pellets specifications, calorific value, industrial fuel, biofuel properties, ash content, moisture content, biomass density"
         canonical="https://srishtibiofuels.in/products"
       />

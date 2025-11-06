@@ -112,7 +112,9 @@ Update the following in your deployment:
 
 ## 📝 License
 
-© 2025 Srishiti Biofuels. All rights reserved.
+---
+
+© 2025 Srishti Biofuels. All rights reserved.
 
 ---
 

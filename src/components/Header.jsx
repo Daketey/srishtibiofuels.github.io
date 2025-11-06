@@ -15,14 +15,12 @@ export default function Header() {
   }
 
   return (
-    <div className="header-inner">
-      <div className="brand">
-        <Link to="/" onClick={closeMenu}>
-          <img src={logo} alt="Srishiti Biofuels" />
-        </Link>
-      </div>
-
-      <button 
+      <div className="header-inner">
+        <div className="brand">
+          <Link to="/" onClick={closeMenu}>
+          <img src={logo} alt="Srishti Biofuels" />
+          </Link>
+        </div>      <button 
         className="mobile-menu-btn"
         onClick={toggleMenu}
         aria-label="Toggle navigation menu"

@@ -9,7 +9,7 @@ export default function Home(){
 
   // Placeholder images for the image carousel
   const carouselImages = [
-    'https://www.thisiseco.co.uk/wp-content/uploads/2020/11/biomass-1.png',
+    'https://5.imimg.com/data5/IZ/TV/ZB/SELLER-49897310/sawdust-pellet-machine.jpg',
     'https://jaykhodiyar.com/wp-content/uploads/2023/04/What-is-briquetting-press.webp',
     'https://www.charcoalbriquettemachine.com/wp-content/uploads/2018/08/Biomass-Briquette-Plant.jpg',
     'https://5.imimg.com/data5/SELLER/Default/2023/3/293125375/YE/TA/KF/1418085/biomass-briquettes-pellets-machines.jpg'
@@ -27,8 +27,8 @@ export default function Home(){
   return (
     <>
       <SEO 
-        title="Srishiti Biofuels — Sustainable Biomass Briquettes & Pellets | Eco-Friendly Energy Solutions"
-        description="Transform your energy needs with Srishiti Biofuels' premium biomass briquettes and pellets. 40% lower carbon emissions, 100% renewable materials, 25% cost savings. Contact us for sustainable industrial heating solutions."
+        title="Srishti Biofuels — Sustainable Biomass Briquettes & Pellets | Eco-Friendly Energy Solutions"
+        description="Transform your energy needs with Srishti Biofuels' premium biomass briquettes and pellets. 40% lower carbon emissions, 100% renewable materials, 25% cost savings. Contact us for sustainable industrial heating solutions."
         keywords="biomass briquettes, biomass pellets, biofuels, renewable energy, sustainable energy, eco-friendly fuel, industrial heating, carbon emissions reduction, agricultural waste fuel, forest waste fuel"
         canonical="https://srishtibiofuels.in/"
       />
@@ -42,11 +42,9 @@ export default function Home(){
           </div>
         </section>
 
-        <section className="intro-section" aria-labelledby="intro-heading">
-          <div className="container">
-            <p className="intro-text">At Srishiti Biofuels, we transform agricultural and forest waste into high-performance, renewable energy solutions, reducing carbon footprints and fostering a sustainable future.</p>
-            
-            <div className="key-features">
+      <section className="intro-section" aria-labelledby="intro-heading">
+        <div className="container">
+            <p className="intro-text">At Srishti Biofuels, we transform agricultural and forest waste into high-performance, renewable energy solutions, reducing carbon footprints and fostering a sustainable future.</p>            <div className="key-features">
               <article className="feature">
                 <span className="feature-icon" aria-hidden="true">🌿</span>
                 <div>
@@ -164,7 +162,7 @@ export default function Home(){
             <div style={{color:'#666'}}>Contact us for queries or quotes and our team will assist you.</div>
           </div>
           <div>
-            <a className="btn" href="/contact" aria-label="Contact Srishiti Biofuels">CONTACT US</a>
+            <a className="btn" href="/contact" aria-label="Contact Srishti Biofuels">CONTACT US</a>
           </div>
         </section>
       </div>

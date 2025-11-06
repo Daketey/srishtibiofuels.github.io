@@ -4,9 +4,9 @@ export default function Contact() {
   return (
     <>
       <SEO 
-        title="Contact Srishiti Biofuels — Get Quote for Biomass Briquettes & Pellets"
-        description="Contact Srishiti Biofuels for sustainable biomass energy solutions. Get quotes for briquettes and pellets, schedule consultations, or inquire about our eco-friendly industrial fuel products. Quick response within 24 hours."
-        keywords="contact srishiti biofuels, biomass quote, biofuel inquiry, sustainable energy consultation, biomass briquettes supplier contact, pellets manufacturer"
+        title="Contact Srishti Biofuels — Get Quote for Biomass Briquettes & Pellets"
+        description="Contact Srishti Biofuels for sustainable biomass energy solutions. Get quotes for briquettes and pellets, schedule consultations, or inquire about our eco-friendly industrial fuel products. Quick response within 24 hours."
+        keywords="contact srishti biofuels, biomass quote, biofuel inquiry, sustainable energy consultation, biomass briquettes supplier contact, pellets manufacturer"
         canonical="https://srishtibiofuels.in/contact"
       />
       <div className="contact-page">
@@ -67,7 +67,7 @@ export default function Contact() {
           <div className="info-card">
             <h3>Contact Details</h3>
             <p>
-              Email: info@srishitibiofuels.com<br />
+              Email: info@srishtibiofuels.com<br />
               Phone: +1 (555) 123-4567<br />
               Hours: Mon-Fri, 9:00 AM - 5:00 PM
             </p>

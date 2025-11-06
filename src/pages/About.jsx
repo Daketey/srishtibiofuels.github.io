@@ -5,21 +5,21 @@ export default function About() {
   return (
     <>
       <SEO 
-        title="About Srishiti Biofuels — Leading Biomass Energy Manufacturer | Our Mission"
-        description="Learn about Srishiti Biofuels, founded in 2020 as India's leading sustainable biomass manufacturer. Discover our mission, values, process, and commitment to environmental stewardship and renewable energy innovation."
-        keywords="about srishiti biofuels, biomass manufacturer, renewable energy company, sustainable fuel producer, biofuel company India, eco-friendly energy solutions"
+        title="About Srishti Biofuels — Leading Biomass Energy Manufacturer | Our Mission"
+        description="Learn about Srishti Biofuels, founded in 2020 as India's leading sustainable biomass manufacturer. Discover our mission, values, process, and commitment to environmental stewardship and renewable energy innovation."
+        keywords="about srishti biofuels, biomass manufacturer, renewable energy company, sustainable fuel producer, biofuel company India, eco-friendly energy solutions"
         canonical="https://srishtibiofuels.in/about"
       />
       <div className="about-page">
         <header className="page-header">
-          <h1>About Srishiti Biofuels</h1>
+          <h1>About Srishti Biofuels</h1>
           <p className="subtitle">Leading the Way in Sustainable Energy Solutions</p>
         </header>
 
       <section className="mission-section" aria-labelledby="mission-heading">
         <h2 id="mission-heading">Our Mission</h2>
         <p className="mission-text">
-          Founded in 2020, Srishiti Biofuels is at the forefront of India's renewable energy revolution. 
+          Founded in 2020, Srishti Biofuels is at the forefront of India's renewable energy revolution. 
           We transform agricultural and forest waste into high-performance, sustainable fuel solutions, 
           helping businesses reduce their carbon footprint while maximizing energy efficiency. Our 
           commitment to innovation and sustainability drives us to continuously improve our processes 
@@ -103,7 +103,7 @@ export default function About() {
       <section className="cta-section">
         <h2>Partner With Us</h2>
         <p>Discover how our sustainable biofuel solutions can transform your energy needs.</p>
-        <a href="/contact" className="btn-large" aria-label="Schedule consultation with Srishiti Biofuels">Schedule a Consultation</a>
+        <a href="/contact" className="btn-large" aria-label="Schedule consultation with Srishti Biofuels">Schedule a Consultation</a>
       </section>
       </div>
     </>

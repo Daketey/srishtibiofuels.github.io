@@ -1,4 +1,4 @@
-# robots.txt for Srishiti Biofuels
+# robots.txt for Srishti Biofuels
 User-agent: *
 Allow: /
 Disallow: /admin/
