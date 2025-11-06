@@ -19,11 +19,13 @@
 
 .brand {
   flex-shrink: 0;
+  color: var(--green-dark);
 }
 
 .brand img {
   height: 50px;
   width: auto;
+  filter: invert(40%) sepia(26%) saturate(919%) hue-rotate(95deg) brightness(92%) contrast(96%);
 }
 
 .nav-links { 
