@@ -61,15 +61,14 @@ export default function Contact() {
         <aside className="contact-info" aria-label="Contact information">
           <div className="info-card">
             <h3>Office Location</h3>
-            <p>123 Green Energy Street<br />Eco Industrial Park<br />Sustainable City, 12345</p>
+            <p>Raipur, Chhattisgarh, 492001</p>
           </div>
 
           <div className="info-card">
             <h3>Contact Details</h3>
             <p>
-              Email: info@srishtibiofuels.com<br />
-              Phone: +1 (555) 123-4567<br />
-              Hours: Mon-Fri, 9:00 AM - 5:00 PM
+              Email: srishtibiofuels@gmail.com<br />
+              Phone: +91-9111109484<br />
             </p>
           </div>
 
